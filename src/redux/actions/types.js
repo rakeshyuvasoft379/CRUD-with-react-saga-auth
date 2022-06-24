@@ -1,0 +1,17 @@
+export const GET_LOGIN_STARTED = "GET_LOGIN_STARTED";
+export const GET_LOGIN_SUCCESS = "GET_LOGIN_SUCCESS";
+export const GET_LOGIN_FAILURE =  "GET_LOGIN_FAILURE";
+export const GET_LOGOUT_SUCCESS = 'GET_LOGOUT_SUCCESS';
+export const GET_LOGIN_REQUESTED = 'GET_LOGIN_REQUESTED';
+export const GET_LOGOUT_REQUESTED = "GET_LOGOUT_REQUESTED";
+export const GET_DATA = "GET_DATA";
+export const GET_DATA_SUCCESS = "GET_DATA_SUCCESS";
+export const Error = "Error";
+export const DELETE_POST = "DELETE_POST";
+export const DELETE_DATA = "DELETE_DATA";
+export const ADD_POST = "ADD_POST";
+export const ADD_DATA = "ADD_DATA";
+export const UPDATE_POST = "UPDATE_POST";
+export const UPDATE_DATA = "UPDATE_DATA";
+export const SINGLE_POST = "SINGLE_POST";
+export const SINGLE_DATA = "SINGLE_DATA";

@@ -1,0 +1,33 @@
+.table{
+    margin:20px auto 30px auto;   
+    border: 2px solid black;
+    padding: 35px;
+    background: rgba(241, 237, 6, 0.973);
+    border-radius: 10px;
+     
+    }
+    .btn-update{
+        background: #5ae7d4;
+        padding: 10px;
+        border-radius: 15px;
+        border:none
+    }
+    
+    .btn-view
+    {
+        background: #e9bde1;
+        padding: 10px;
+        border-radius: 15px;
+        border:none;
+    }
+    
+    .btn-delete{
+        background: rgb(231, 156, 156);
+        padding: 10px;
+        border-radius: 15px;
+        border:none
+    }
+
+    .table tr td{
+        padding: 10px
+    }
